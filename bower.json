@@ -1,0 +1,17 @@
+{
+  "name": "package-name",
+  "description": "desc",
+  "main": "index.js",
+  "authors": [
+    "<Minesh> <<minesh_mk@hotmail.co.uk>>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mineshkothari/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
